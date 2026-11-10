@@ -1,153 +1,175 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:064e24,100:39ff14&height=200&section=header&text=AADIDEV&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Aviation%20Enthusiast&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:052e16,100:16a34a&height=190&section=header&text=AADIDEV&fontSize=70&fontColor=39FF14&fontAlignY=38&desc=AVIATION%20%2F%2F%20TECHNOLOGY%20%2F%2F%20DEVELOPMENT&descSize=15&descColor=ffffff&descAlignY=60&animation=fadeIn" width="100%" />
 
-Hey there, I'm Aadidev! 👋
+# ✈️ AADIDEV // FLIGHT DECK
 
-💻 Student Developer | 🚀 Tech Enthusiast | ✈️ Aviation Geek
+### SYSTEM ONLINE · DEVELOPER ON BOARD
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+my+own+digital+world...;Creating+AADIDEV+OS+%F0%9F%96%A5%EF%B8%8F;Exploring+aviation+%E2%9C%88%EF%B8%8F;Turning+ideas+into+reality+%F0%9F%9A%80;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=INITIALISING+AADIDEV+SYSTEMS...;BUILDING+THE+FUTURE+OF+TECHNOLOGY;CLEARED+FOR+TAKEOFF+%E2%9C%88%EF%B8%8F;EXPLORING+AVIATION+AND+SOFTWARE;NEXT+DESTINATION%3A+INNOVATION" />
 
-<br/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/FLIGHT_STATUS-EXPLORING-16A34A?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/LOCATION-UNITED_KINGDOM-334155?style=for-the-badge&labelColor=050505" />
 
-
-
+[![GitHub followers](https://img.shields.io/github/followers/AadidevArun?style=flat-square&logo=github&color=39ff14&labelColor=050505)](https://github.com/AadidevArun)
+[![GitHub stars](https://img.shields.io/github/stars/AadidevArun?style=flat-square&logo=github&color=39ff14&labelColor=050505)](https://github.com/AadidevArun?tab=repositories)
 
 </div>
 
-🧑‍💻 About Me
+---
 
-Hey! I'm Aadidev Arun, a student developer from the UK passionate about technology, aviation and creating things from scratch.
+## 🛰️ 01 // PERSONNEL IDENTIFICATION
 
-I love experimenting with code, designing futuristic interfaces and turning ambitious ideas into working projects.
+```text
+╔══════════════════════════════════════════╗
+║           AADIDEV SYSTEMS                ║
+╠══════════════════════════════════════════╣
+║ NAME       : AADIDEV ARUN                ║
+║ DESIGNATION: STUDENT DEVELOPER            ║
+║ BASE       : UNITED KINGDOM               ║
+║ DIVISIONS  : SOFTWARE / AVIATION          ║
+║ STATUS     : LEARNING & BUILDING          ║
+╚══════════════════════════════════════════╝
+```
 
-I'm particularly interested in software development, operating systems, artificial intelligence and flight simulation.
+Hey! I'm **Aadidev Arun**, a student developer fascinated by the intersection of technology and aviation.
 
-I don't just want to use technology. I want to build it.
+I enjoy building websites, experimenting with operating system concepts, exploring AI and creating futuristic digital experiences.
 
-💻 Exploring software and web development.
+Outside coding, I'm fascinated by commercial aviation, aircraft engineering, airlines, flight operations and simulation.
 
-🖥️ Building my own browser-based operating system.
+**My mission:** Combine creativity, software and aviation to build something extraordinary.
 
-🤖 Experimenting with AI and interactive applications.
+---
 
-✈️ Passionate about commercial aviation and aircraft.
+## 🛫 02 // ACTIVE DEVELOPMENT HANGAR
 
-🎮 Interested in game development and simulation.
+| PROJECT | MISSION |
+|---|---|
+| 🖥️ AADIDEV OS | Building my own browser-based operating system. |
+| 🤖 AADIDEV AI | Exploring AI-powered experiences. |
+| 🌐 AADIDEV HUB | A futuristic personal digital command centre. |
+| ✈️ AVIATION LAB | Flight simulators and aviation-inspired software. |
+| 🎮 GAME DEVELOPMENT | Interactive games and simulations. |
 
-🚀 Constantly learning, experimenting and creating.
+---
 
-⚡ What I'm Building
+## 💻 03 // ENGINEERING & TECHNOLOGY
 
-Project
-
-Description
-
-🖥️ AADIDEV OS
-
-My own browser-based operating system experience.
-
-🤖 AADIDEV AI
-
-Exploring AI-powered digital experiences.
-
-🌐 AADIDEV's Hub
-
-A futuristic personal digital command centre.
-
-✈️ Aviation Projects
-
-Flight simulators, aviation applications and aircraft-inspired creations.
-
-🎮 Game Development
-
-Interactive games and creative experiments.
-
-🛠️ Tech Stack
-
-Languages & Development
+**PRIMARY TECHNOLOGIES**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&theme=dark" />
 
-Exploring
+**CURRENTLY EXPLORING**
 
-<img src="https://skillicons.dev/icons?i=python,cloudflare,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,cloudflare&theme=dark" />
 
-Always experimenting with new technologies and expanding my skills.
+```text
+[OK] HTML / CSS
+[OK] JAVASCRIPT EXPERIMENTATION
+[OK] WEB INTERFACE DEVELOPMENT
+[>>] PYTHON LEARNING
+[>>] SOFTWARE ENGINEERING
+[>>] AI & SIMULATION
+```
 
-✈️ Beyond Coding
+---
 
-Technology isn't my only interest!
+## ✈️ 04 // AVIATION DIVISION
 
-I'm also fascinated by aviation, particularly commercial airlines, aircraft engineering and flight operations.
+<img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&auto=format&fit=crop&q=85" width="100%" />
 
-Some things I enjoy exploring:
+Aviation is one of my biggest interests.
 
-✈️ Aircraft such as the Airbus A380, A350 and Boeing 787.
+I'm particularly fascinated by:
 
-🌍 Airlines, international routes and airport operations.
+- Airbus A380 and A350.
+- Boeing 787 Dreamliner.
+- Air India and international airlines.
+- Airport operations and flight planning.
+- Flight simulation and aircraft technology.
+- Building miniature airport models.
 
-🛫 Flight simulators and virtual aviation.
+### AIRCRAFT INTEREST DATABASE
 
-🧩 Building miniature airport models and aviation crafts.
+| AIRCRAFT | MANUFACTURER |
+|---|---|
+| A380 | Airbus |
+| A350 | Airbus |
+| B787 | Boeing |
+| A320neo | Airbus |
 
-💡 Exploring the connection between aviation and technology.
+**AVIATION + TECHNOLOGY = THE FUTURE.**
 
-Dream combination: Aviation + Technology.
+---
 
-🎯 My Goals
-
-Build and improve AADIDEV OS.
-
-Develop more original applications.
-
-Expand my programming knowledge.
-
-Learn more about Python and software engineering.
-
-Create an impressive portfolio of projects.
-
-Explore flight simulation and aviation technology.
-
-Keep contributing to GitHub.
-
-📊 GitHub Statistics
+## 📡 05 // FLIGHT TRACKING DISPLAY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AadidevArun&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=39ff14&icon_color=39ff14" width="49%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=3&section=header" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadidevArun&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=39ff14" width="49%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=TRACKING+FLIGHT+AADI001...;DESTINATION%3A+INNOVATION;ALTITUDE%3A+ALWAYS+RISING;STATUS%3A+CLEARED+FOR+TAKEOFF" />
 
-<img src="https://streak-stats.demolab.com?user=AadidevArun&theme=dark&hide_border=true&background=050505&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" width="70%" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/>
+
+```text
+FLIGHT NUMBER : AADI001
+CALLSIGN      : AADIDEV
+AIRCRAFT      : FUTURE BUILDER
+DEPARTURE     : IDEAS
+DESTINATION   : INNOVATION
+FLIGHT STATUS : IN PROGRESS
+```
 
 </div>
 
-💡 My Philosophy
+---
 
-"Per Ardua Ad Summa"
-Through adversity to the highest.
-
-I believe the best way to learn is to experiment, build things, solve problems and keep improving.
-
-Every project starts with an idea. Every commit moves it forward.
-
-🌐 Find Me Around the Internet
-
-💻 GitHub: @AadidevArun
-
-🌍 Personal Website: aadidev.pages.dev
-
-🚀 Projects: Explore my repositories
+## 📊 06 // DEVELOPER TELEMETRY
 
 <div align="center">
 
-Thanks for stopping by! 👋
+<img src="https://github-readme-stats.vercel.app/api?username=AadidevArun&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=39ff14&icon_color=39ff14" width="95%" />
 
-KEEP BUILDING. KEEP EXPLORING. KEEP INNOVATING.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadidevArun&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=39ff14" width="95%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:064e24,100:050505&height=120&section=footer" width="100%" />
+<img src="https://streak-stats.demolab.com?user=AadidevArun&theme=dark&hide_border=true&background=050505&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" width="95%" />
 
-<sub>Designed with 💚 by Aadidev Arun</sub>
+</div>
+
+---
+
+## 🎯 07 // UPCOMING MISSIONS
+
+- [ ] Expand AADIDEV OS.
+- [ ] Develop more original applications.
+- [ ] Improve my programming skills.
+- [ ] Explore Python and software engineering.
+- [ ] Build an aviation-inspired simulator.
+- [ ] Create more interactive digital experiences.
+
+---
+
+## 🌍 08 // COMMUNICATION CHANNELS
+
+- 💻 GitHub: [AadidevArun](https://github.com/AadidevArun)
+- 🌐 Website: [aadidev.pages.dev](https://aadidev.pages.dev)
+- 🚀 Repositories: [Explore projects](https://github.com/AadidevArun?tab=repositories)
+
+---
+
+<div align="center">
+
+## ✈️ CLEARED FOR TAKEOFF.
+
+**PER ARDUA AD SUMMA**
+
+*Through adversity to the highest.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:052e16,100:020617&height=130&section=footer" width="100%" />
+
+<sub>AADIDEV SYSTEMS · DESIGNED & ENGINEERED BY AADIDEV ARUN</sub>
 
 </div>
